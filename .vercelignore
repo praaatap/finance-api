@@ -1,0 +1,15 @@
+# Vercel Deployment
+POST /api/auth/register
+POST /api/auth/login
+POST /api/auth/refresh
+POST /api/auth/logout
+GET /api/users
+PUT /api/users/:id
+GET /api/records
+POST /api/records
+PUT /api/records/:id
+DELETE /api/records/:id
+GET /api/dashboard/summary
+GET /metrics
+GET /docs
+GET /api-docs
